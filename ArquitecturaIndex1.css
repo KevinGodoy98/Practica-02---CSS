@@ -1,0 +1,67 @@
+.logo{
+    float: left;
+}
+header{
+background-color:#bdafaf;
+}
+.buscar{
+    width: 60%;
+    display:inline-block;
+    
+}
+.redes{
+    float: right;
+    margin-top: 34px;
+}
+input,label{
+    float: none;
+    width: 100px;
+}
+body{
+    background:#bd9764c2;
+}
+#button {
+    padding: 0;
+    
+}
+#button li {
+    display: inline;
+    
+}
+#button li a {
+    font-family: Arial;
+    font-size: 11px;
+    text-decoration: none;
+    float: left;
+    padding: 4px;
+    background-color: #2175bc;
+    color: #fff;
+    text-align: justify;
+}
+#img1{
+    margin-left: 184px;
+}
+#informacion1{
+text-align: justify;
+margin-left: 229px;
+}
+aside{
+float:right;
+width: 40%;
+}
+aside,article{
+float: left;
+text-align: justify;
+background-color: tan;
+}
+#piepagina{
+    margin-top:0px;
+    clear: both;
+    border: rgb(86, 87, 143);
+    padding: 0px;
+    border-bottom: outset;
+    border-color: darkslategrey;
+}
+footer{
+   background-color: #bdafaf;
+}

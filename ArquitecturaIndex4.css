@@ -1,0 +1,56 @@
+.logo{
+    float: left;
+}
+header{
+    background-color: #afbdb363;
+}
+.buscar{
+    width: 60%;
+    display:inline-block;
+    
+}
+.redes{
+    float: right;
+    margin-top: 34px;
+}
+input,label{
+    float: none;
+    width: 100px;
+}
+body{
+    background:#bd9764c2;
+}
+#button {
+    padding: 0;
+    
+}
+#button li {
+    display: inline;
+    
+}
+#button li a {
+    font-family: Arial;
+    font-size: 11px;
+    text-decoration: none;
+    float: left;
+    padding: 4px;
+    background-color: #2175bc;
+    color: #fff;
+    text-align: justify;
+}
+.img1{
+    width: 300px;
+}
+input{
+    width: 662px;
+}
+#piepagina{
+    border-top: 2px solid;
+    width: 135%;
+    border-bottom: 2px solid;
+    background: brown
+}
+footer{
+    background-color: #afbdb363;
+}
+

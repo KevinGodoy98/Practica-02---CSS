@@ -2,8 +2,9 @@
     float: left;
 }
 header{
-background-color:#bdafaf;
+    background-color: #afbdb363;
 }
+
 .buscar{
     width: 60%;
     display:inline-block;
@@ -18,7 +19,7 @@ input,label{
     width: 100px;
 }
 body{
-    background:#bd9764c2;
+    background-color: tan;
 }
 #button {
     padding: 0;
@@ -42,8 +43,9 @@ body{
     margin-left: 184px;
 }
 #informacion1{
-text-align: justify;
-margin-left: 229px;
+    text-align: justify;
+    margin-left: 66px;
+    width: 721px;
 }
 aside{
 float:right;
@@ -52,7 +54,7 @@ width: 40%;
 aside,article{
 float: left;
 text-align: justify;
-background-color: tan;
+background: darkgoldenrod;
 }
 #piepagina{
     margin-top:0px;
@@ -61,7 +63,14 @@ background-color: tan;
     padding: 0px;
     border-bottom: outset;
     border-color: darkslategrey;
+    border-top: 2px solid black;
 }
 footer{
-   background-color: #bdafaf;
+    background-color: #afbdb363;
 }
+
+
+
+
+
+

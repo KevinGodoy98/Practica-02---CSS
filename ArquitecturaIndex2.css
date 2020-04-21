@@ -90,7 +90,7 @@ table {
     padding: 0px;
     border-bottom: outset;
     border-color: darkslategrey;
-
+    border-top: 2px solid black;
 }
 footer{
     background-color: #afbdb363;

@@ -15,7 +15,7 @@ input,label{
     width: 100px;
 }
 body{
-    background-color: wheat;
+    background: tan;
 }
 
 #button {
@@ -62,7 +62,7 @@ h2{
     margin-top: 550px;
     border: rgb(160, 158, 158) 2px solid;
     padding: 10px;
-    background: tan;
+    background: wheat;
 }
 .sectionB,ol{
     margin-top:0px;
@@ -87,4 +87,7 @@ address{
     clear: both;
     border: rgb(86, 87, 143);
     padding: 0px;
+    border-bottom: outset;
+    border-color: darkslategrey;
+    
 }

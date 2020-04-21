@@ -1,0 +1,70 @@
+.logo{
+    float: left;
+}
+header{
+    background-color: #afbdb363;
+}
+.buscar{
+    width: 60%;
+    display:inline-block;
+    
+}
+.redes{
+    float: right;
+    margin-top: 34px;
+}
+input,label{
+    float: none;
+    width: 100px;
+}
+body{
+    background-color: aliceblue;
+}
+#button {
+    padding: 0;
+    
+}
+#button li {
+    display: inline;
+    
+}
+#button li a {
+    font-family: Arial;
+    font-size: 11px;
+    text-decoration: none;
+    float: left;
+    padding: 4px;
+    background-color: #2175bc;
+    color: #fff;
+    text-align: justify;
+}
+aside{
+    float:left;
+}
+aside,article{
+    text-align: justify;
+    width: 50%;
+}
+#img{
+float: left;
+width: 559px;
+height: 572px;
+}
+p{
+ width: 196%;
+}
+ul{
+        width: 120%
+}
+#piepagina{
+    margin-top:0px;
+    clear: both;
+    border: rgb(86, 87, 143);
+    padding: 0px;
+    border-bottom: outset;
+    border-color: darkslategrey;
+    border-top: 2px solid black;
+}
+footer{
+    background-color: #afbdb363;
+}

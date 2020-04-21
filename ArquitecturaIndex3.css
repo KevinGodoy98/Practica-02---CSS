@@ -1,0 +1,141 @@
+.logo{
+    float: left;
+}
+header{
+    background-color: #afbdb363;
+}
+.buscar{
+    width: 60%;
+    display:inline-block;
+    
+}
+.redes{
+    float: right;
+    margin-top: 34px;
+}
+input,label{
+    float: none;
+    width: 100px;
+}
+body{
+    background:#bd9764c2;
+}
+#button {
+    padding: 0;
+    
+}
+#button li {
+    display: inline;
+    
+}
+#button li a {
+    font-family: Arial;
+    font-size: 11px;
+    text-decoration: none;
+    float: left;
+    padding: 4px;
+    background-color: #2175bc;
+    color: #fff;
+    text-align: justify;
+}
+
+section{
+    border-top: 3px solid #90949c73;
+    width: 50%;
+    text-align: justify;
+}
+  #imgpr1{
+    float: right;
+    margin: 1em 3em 1em 1em;
+    width: 20%;
+    margin-right: -272px;
+    margin-top: -60px;
+    height: 111px;
+  }
+  #imgpr2{
+    float: right;
+    margin: 1em 3em 1em 1em;
+    width: 20%;
+    margin-right: -272px;
+    margin-top: -60px;
+    height: 111px;
+  }
+  #imgpr3{
+    float: right;
+    margin: 1em 3em 1em 1em;
+    width: 20%;
+    margin-right: -272px;
+    margin-top: -60px;
+    height: 111px;
+  }
+  #imgpr4{
+    float: right;
+    margin: 1em 3em 1em 1em;
+    width: 20%;
+    margin-right: -272px;
+    margin-top: -60px;
+    height: 111px;
+  }
+  #imgpr{
+    float: right;
+    margin: 1em 3em 1em 1em;
+    width: 20%;
+    margin-right: -272px;
+    margin-top: -60px;
+    height: 111px;
+  }
+#precio{
+    float: right;
+    margin: 1em 3em 1em 1em;
+    width: 20%;
+    margin-right: -611px;
+    margin-top: -21px;
+    font-family: sans-serif;
+}
+#precio1{
+    float: right;
+    margin: 1em 3em 1em 1em;
+    width: 20%;
+    margin-right: -611px;
+    margin-top: -21px;
+    font-family: sans-serif;
+}
+#precio2{
+    float: right;
+    margin: 1em 3em 1em 1em;
+    width: 20%;
+    margin-right: -611px;
+    margin-top: -21px;
+    font-family: sans-serif;
+}
+#precio3{
+    float: right;
+    margin: 1em 3em 1em 1em;
+    width: 20%;
+    margin-right: -611px;
+    margin-top: -21px;
+    font-family: sans-serif;
+}
+#precio4{
+    float: right;
+    margin: 1em 3em 1em 1em;
+    width: 20%;
+    margin-right: -611px;
+    margin-top: -21px;
+    font-family: sans-serif;
+}
+#piepagina{
+    margin-top:0px;
+    clear: both;
+    border: rgb(86, 87, 143);
+    padding: 0px;
+    border-bottom: outset;
+    border-color: darkslategrey;
+    border-top: 2px solid black;
+}
+footer{
+    background-color: #afbdb363;
+}
+html{
+    background: yellowgreen;
+}
